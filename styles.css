@@ -1,0 +1,76 @@
+.logo-word{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 0.847em;
+}
+li{
+    font-size: 0.75em;
+}
+.main-top-img{
+    background-image: url(images/main-img.png);
+    color: #ffffff;
+    padding-top:5em;
+}
+.main-date{
+    font-weight: 400;
+    font-size: 0.75em;
+}
+.main-title{
+    font-weight: 700;
+    font-size: 2em;
+}
+.main-content{
+    font-weight: 400;
+font-size: 1em;
+}
+body{
+    font-family: "Source Sans 3", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;  
+}
+.data{
+ color: #000000;
+ font-size: 0.886em;
+ font-weight: 400;
+}
+.title{
+    color: #141414;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+.content{
+    color: #505050;
+    font-size: 1em;
+    font-weight: 400;
+}
+.view-more{
+text-align: center;
+padding: 2em 0;
+}
+.more-btn{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1em;
+    font-weight: 700;
+
+    border: none;
+    cursor: pointer;
+border-bottom: 1px solid black;
+}
+footer{
+    background: black;
+    padding: 2em 0;
+    text-align: center;
+}
+.my{
+    color: #ECECEC;
+    font-size: 1em;
+    font-weight: 700;
+}
+.copyright{
+    color: #D7D7D7;
+    font-size: 0.75em;
+    font-weight: 400;
+}

@@ -21,6 +21,9 @@ li{
     font-weight: 400;
     font-size: 0.75em;
 }
+.post-vertwo-img2{
+    display: none;
+}
 .main-title{
     font-weight: 700;
     font-size: 2em;
@@ -94,4 +97,15 @@ footer{
     color: #D7D7D7;
     font-size: 0.75em;
     font-weight: 400;
+}
+@media(min-width:600px) {
+    .main-top-img{
+        background-image: url(images/desktop-blog-image-hero.png);
+    }
+    .post-vertwo-img{
+        display: none;
+    }
+    .post-vertwo-img2{
+        display: block;
+    }
 }

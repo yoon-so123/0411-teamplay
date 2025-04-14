@@ -13,7 +13,11 @@ li{
     color: #ffffff;
     padding-top:5em;
 }
-.main-date{
+.post-main{
+    background: none;
+    color: #151515;
+}
+.post-date{
     font-weight: 400;
     font-size: 0.75em;
 }
@@ -21,9 +25,26 @@ li{
     font-weight: 700;
     font-size: 2em;
 }
+.post-title-one{
+    font-weight: 700;
+    font-size: 1em;
+}
+.aboutme-title{
+    font-weight: 700;
+    font-size: 2.178em;
+}
 .main-content{
     font-weight: 400;
 font-size: 1em;
+}
+.post-content-two{
+    font-weight: 400;
+    font-size: 1em;
+}
+.blog-all-title{
+    font-weight: 700;
+    font-size: 1em;
+text-align: center;
 }
 body{
     font-family: "Source Sans 3", sans-serif;

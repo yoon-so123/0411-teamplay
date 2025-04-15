@@ -111,7 +111,6 @@ body{
         border: 1px solid blueviolet;
     }
     .blog > article {
-        
           display: flex;
           flex-direction: column;
           text-align: left;
@@ -403,5 +402,16 @@ padding-top: 1.1em;
         cursor: default;
         pointer-events: none;
     }
+    .post-main{
+        display: grid;
+        grid-template: 1fr / 40px auto 40px ;
+    }
+    .top{
+        grid-column: 2/3;
+    }
+  .middle{
+    grid-column: 2/3;
+  }
+
     }
    
